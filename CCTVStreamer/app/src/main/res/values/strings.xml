@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CCTV Streamer</string>
+    
+    <!-- Perbaiki format string untuk notification -->
+    <string name="notification_streaming_at">Streaming at %1$s</string>
+    
+    <!-- Tambahkan string lain yang diperlukan -->
+    <string name="start_streaming">Start Streaming</string>
+    <string name="stop_streaming">Stop Streaming</string>
+    <string name="quality">Quality: %1$d%%</string>
+    <string name="streaming_active">Streaming is active</string>
+    <string name="streaming_stopped">Streaming stopped</string>
+</resources>
