@@ -20,3 +20,10 @@ output/
 Thumbs.db
 nul
 
+
+# Gradle cache, build output, JVM crash dumps
+.gradle/
+build/
+hs_err_pid*.log
+replay_pid*.log
+local.properties
