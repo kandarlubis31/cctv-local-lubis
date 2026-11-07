@@ -51,6 +51,16 @@ CCTVStreamer/app/src/main/java/com/lubis/cctvstreamer/
 - The repository still contains old Gradle caches and two JVM crash logs
   (`hs_err_pid*.log`) from development. They are harmless but not part of the source.
 
+---
+
+## Bahasa Indonesia
+
+**cctv-local-lubis** mengubah ponsel Android lama menjadi kamera CCTV lokal: tanpa akun cloud dan tanpa langganan. Kamera belakang diambil lewat CameraX, frame diubah ke JPEG, lalu disajikan sebagai **stream MJPEG lewat HTTP** di port `8080`.
+
+Selama perangkat berada di jaringan Wi-Fi yang sama, kamera bisa dibuka dari browser mana pun.
+
+---
+
 ## License
 
 MIT
